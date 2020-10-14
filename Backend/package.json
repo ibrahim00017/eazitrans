@@ -1,0 +1,11 @@
+{
+  "name": "eazitrans",
+  "version": "1.0.0",
+  "description": "A QR based payment system to reduce the use of cash in public transportation and toll payments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
